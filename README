@@ -1,0 +1,23 @@
+I found this at the EmacsWiki page on writing Chinese [1].
+
+It's the work of Ye Wenbin (叶文彬), who has an Emacs wiki page [2].
+
+The package is described in detail, in Chinese, on another EmacsWiki page,
+EimForChinese [3]. Wenbin references some files from his personal home page [4]
+under tsinghua.edu.cn. Unfortunately, his personal home page is no longer
+present.
+
+Unfortunately, I'm not sure where I got the tar ball any more. There is,
+however, a repository [5] on github that seems to have a similar codebase.
+
+Anyway, I'm not sure what the copyright status of this code is; however, due to
+its usefulness, to me I feel compelled to post it.
+
+Feel free to contact me at danking@ccs.neu.edu.
+
+
+[1] http://www.emacswiki.org/emacs-zh/WritingChinese
+[2] http://www.emacswiki.org/emacs-zh/Ye_Wenbin
+[3] http://www.emacswiki.org/emacs-zh/EimForChinese
+[4] http://learn.tsinghua.edu.cn:8080/2005211356/emacs/Eim.html
+[5] https://github.com/viogus/eim
